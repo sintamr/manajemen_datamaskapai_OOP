@@ -3,6 +3,13 @@
 
 Oleh : **Sinta Miftakhul Rohmah**
 
+<p align="center">
+  <img src="Images1.jpg" width="849"><br>
+  <sub>
+    Photo by <a href="[https://unsplash.com/@jack19992011?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Markus Spiske</a> on <a href="https://unsplash.com/photos/a-grocery-store-aisle-filled-with-lots-of-food-IH65r4HEQWQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash](https://unsplash.com/photos/text-jG8nlwLRZTM)">Unsplash</a>
+  </sub>
+</p>
+
 # 🧾 Deskripsi Singkat
 Manajemen Data Maskapai di sini adalah sebuah program simulasi sederhana yang dirancang menggunakan konsep **Object Oriented  Programming (OOP)** 
 untuk mengelola informasi penerbangan. Sistem ini dapat menyimpan dan menampilkan detail penerbangan seperti maskapai, jadwal keberangkatan, durasi, jumlah transit, serta informasi tambahan.
@@ -68,5 +75,17 @@ Pada konteks kasus penerbangan ini adalah informasi data diri petugas (CrewInfo)
 Berdasarkan hasil di atas, terbukti bahwa informasi petugas berhasil disembunyikan. Terlihat ketika informasi tersebut diminta, program menampilkan pesan error yang membuat
 spekulasi bahwa data mengenai petugas tidak ada atau tidak dimuat dalam program.
 
+## 🛠️ Dibuat dengan
 
+- **Python**
+
+## 📑 Data
+Data yang diinputkan hanyalah data rekayasa untuk mencoba apakah program dapat berjalan seperti yang diinginkan.
+
+## 👩‍💻 Penulis
+
+**Sinta Miftakhul Rohmah**  
+Mahasiswa Matematika Terapan  
+Universitas Islam Negeri Sunan Kalijaga, Yogyakarta  
+📫 [LinkedIn](https://www.linkedin.com/in/sintamiftakhulr/)
 
